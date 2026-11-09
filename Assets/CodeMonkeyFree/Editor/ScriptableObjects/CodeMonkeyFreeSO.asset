@@ -14,22 +14,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.01
   subtype: kitchenchaos
-  lastShownTimestamp: 1793615857
+  lastShownTimestamp: 1794221849
   lastUpdateResponse:
     version: 1.01
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1793615857
+  checkedLastUpdateTimestamp: 1794221849
   lastQOTDResponse:
-    questionId: 358
-    questionText: Which of these are affected when you modify Time.timeScale?
-    answerA: Time.deltaTime, Time.realtimeSinceStartup, Time.unscaledDeltaTime, Time.timeSinceLevelLoad,
-      Time.fixedTime
-    answerB: Time.deltaTime, Time.realtimeSinceStartup, Time.timeSinceLevelLoad,
-      Time.fixedTime
-    answerC: Time.deltaTime, Time.timeSinceLevelLoad, Time.fixedTime
+    questionId: 360
+    questionText: What is the purpose of Unity Hub?
+    answerA: Provide a space for the community to interact
+    answerB: Manage different Unity versions and Projects
+    answerC: Dashboard for Unity services
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1793615857
+  lastQotdTimestamp: 1794221849
   lastDynamicHeaderResponse:
     topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/codeMonkeyEndOfSummerBundleOct26.png
     topText: Back for a limited time until the END OF SUMMER, 80% OFF all my Courses
@@ -37,19 +35,19 @@ MonoBehaviour:
     topLink: summerbundle
     bottomText: FREE Game Dev Insights every week straight to your inbox!
     bottomLink: gamedevreport
-  lastDynamicHeaderTimestamp: 1793615857
+  lastDynamicHeaderTimestamp: 1794221849
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1793615857
+  websiteLatestMessageTimestamp: 1794221849
   websiteLatestVideos:
     videos:
+    - youTubeId: 6HsAEaBkpLg
+      title: How a PRO builds a Weapon System!
+    - youTubeId: HZjtgeSpmPU
+      title: Does Unity CANCEL their features?
     - youTubeId: uYqLWurQqy0
       title: BEST NEW Visual Assets to INSPIRE YOU! (OCTOBER 2026)
     - youTubeId: 6DDIfmMYYFs
       title: 'Cards: Tidy Up! [Demo Out Now]'
-    - youTubeId: qWLxYU-jfbc
-      title: "Your Game Works\u2026 Until Someone Else Plays It!"
-    - youTubeId: IOpC_qtcV_Q
-      title: A new C# version is NOT a new programming language!
-  websiteLatestVideosTimestamp: 1793615857
+  websiteLatestVideosTimestamp: 1794221849
