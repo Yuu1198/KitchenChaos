@@ -15,9 +15,7 @@ public class ContainerCounter : BaseCounter
         {
             // Player is not carrying anything
 
-            // Instantiate Tomato at Counter Top Point
-            Transform kitchenObjectTransform = Instantiate(kitchenObjectSO.prefab);
-            kitchenObjectTransform.GetComponent<KitchenObject>().SetKitchenObjectParent(player);
+            KitchenObject.SpawnKitchenObject(kitchenObjectSO, player); // Spawn new KitchenObject and set parent to player
 
             OnPlayerGrabbedObject?.Invoke(this, EventArgs.Empty);
         }
