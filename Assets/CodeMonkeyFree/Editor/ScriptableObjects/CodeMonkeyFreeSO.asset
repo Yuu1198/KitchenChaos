@@ -14,20 +14,35 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.01
   subtype: kitchenchaos
-  lastShownTimestamp: 1794914495
+  lastShownTimestamp: 1795516016
   lastUpdateResponse:
     version: 1.01
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1794914495
+  checkedLastUpdateTimestamp: 1795516016
   lastQOTDResponse:
-    questionId: 363
-    questionText: What will happen on January 19, 2038 at 03:14:07?
-    answerA: Armagedon
-    answerB: End of Unix Time
-    answerC: Half-Life 3 release date
+    questionId: 365
+    questionText: 'What is the possible error in this code:
+
+      <p>tickTimer +=
+      Time.deltaTime;</p>
+
+      <p>if (tickTimer &gt;= TICK_TIMER_MAX) {</p>
+
+      <p>&nbsp;
+      &nbsp; tickTimer -= TICK_TIMER_MAX;</p>
+
+      <p>&nbsp; &nbsp; tick++;</p>
+
+      <p>&nbsp;
+      &nbsp; OnTickEvent(this, EventArgs.Empty);</p>
+
+      <p>}</p>'
+    answerA: None
+    answerB: NullReferenceException
+    answerC: 2 ticks at once
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1794914495
+  lastQotdTimestamp: 1795516016
   lastDynamicHeaderResponse:
     topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/codeMonkeyEndOfSummerBundleOct26.png
     topText: Back for a limited time until the END OF SUMMER, 80% OFF all my Courses
@@ -35,19 +50,19 @@ MonoBehaviour:
     topLink: summerbundle
     bottomText: FREE Game Dev Insights every week straight to your inbox!
     bottomLink: gamedevreport
-  lastDynamicHeaderTimestamp: 1794914495
+  lastDynamicHeaderTimestamp: 1795516016
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1794914495
+  websiteLatestMessageTimestamp: 1795516016
   websiteLatestVideos:
     videos:
-    - youTubeId: WhWutMiW1lI
-      title: My 10th Steam game is out! Why am I both HAPPY and SAD?
-    - youTubeId: dkIfY7svIpg
-      title: TOP 10 NEW Games, Made with Unity! (OCTOBER 2026)
-    - youTubeId: 6HsAEaBkpLg
-      title: How a PRO builds a Weapon System!
-    - youTubeId: HZjtgeSpmPU
-      title: Does Unity CANCEL their features?
-  websiteLatestVideosTimestamp: 1794914495
+    - youTubeId: uxMTXmWcF48
+      title: Why AI Skills are a GAME CHANGER for your Assets!
+    - youTubeId: XX99tMlUcZw
+      title: My thoughts on AI Game Dev and the future of this channel.
+    - youTubeId: Um0NY3AYAcY
+      title: TOP 10 FREE NEW Assets NOVEMBER 2026!
+    - youTubeId: nhx0FqRDSjM
+      title: 2027 will be the BEST year for Unity! (and $500,000 for indie devs!)
+  websiteLatestVideosTimestamp: 1795516016
