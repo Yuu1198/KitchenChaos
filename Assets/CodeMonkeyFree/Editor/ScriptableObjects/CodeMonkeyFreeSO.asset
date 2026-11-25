@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.01
   subtype: kitchenchaos
-  lastShownTimestamp: 1795516016
+  lastShownTimestamp: 1795605632
   lastUpdateResponse:
     version: 1.01
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1795516016
+  checkedLastUpdateTimestamp: 1795605632
   lastQOTDResponse:
     questionId: 365
     questionText: 'What is the possible error in this code:
@@ -42,7 +42,7 @@ MonoBehaviour:
     answerC: 2 ticks at once
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1795516016
+  lastQotdTimestamp: 1795605632
   lastDynamicHeaderResponse:
     topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/codeMonkeyEndOfSummerBundleOct26.png
     topText: Back for a limited time until the END OF SUMMER, 80% OFF all my Courses
@@ -50,11 +50,11 @@ MonoBehaviour:
     topLink: summerbundle
     bottomText: FREE Game Dev Insights every week straight to your inbox!
     bottomLink: gamedevreport
-  lastDynamicHeaderTimestamp: 1795516016
+  lastDynamicHeaderTimestamp: 1795605632
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1795516016
+  websiteLatestMessageTimestamp: 1795605632
   websiteLatestVideos:
     videos:
     - youTubeId: uxMTXmWcF48
@@ -65,4 +65,4 @@ MonoBehaviour:
       title: TOP 10 FREE NEW Assets NOVEMBER 2026!
     - youTubeId: nhx0FqRDSjM
       title: 2027 will be the BEST year for Unity! (and $500,000 for indie devs!)
-  websiteLatestVideosTimestamp: 1795516016
+  websiteLatestVideosTimestamp: 1795605632
